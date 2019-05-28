@@ -25,6 +25,8 @@ Copyright © All rights Reserved
 8. CALL TO ACTION
 9. FOOTER
 
+10. CUSTOM FOR TSUKUBA ME
+
 ------------------------*/
 
 
@@ -639,4 +641,13 @@ header {
         text-align: center;
         margin-top: 2rem;
     }
+}
+
+
+/*  CUSTOM FOR TSUKUBA ME
+----------------------*/
+
+.os-icon {
+    max-width: 24px;
+    max-height: 24px;
 }
